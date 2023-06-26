@@ -1,0 +1,12 @@
+
+Employee leave_type:other 
+Employee leave_day:1
+ 
+Employee leave_type:medical 
+Employee leave_day:1
+ 
+Employee leave_type:casual 
+Employee leave_day:2
+ 
+Employee leave_type:importent 
+Employee leave_day:1
