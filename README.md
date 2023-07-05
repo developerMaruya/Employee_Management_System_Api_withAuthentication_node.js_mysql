@@ -33,6 +33,10 @@ assign device to employee
 
 
 ..........................nested api customer and student.........
+# Image
+![Screenshot (170)](https://github.com/developerMaurya/Employee_Management_System_Api_withAuthentication_node.js_mysql/assets/137375643/f59e3dab-ef99-4fe7-90f9-8e52b490c9a2)
+![Screenshot (169)](https://github.com/developerMaurya/Employee_Management_System_Api_withAuthentication_node.js_mysql/assets/137375643/19498679-58ea-40dd-8e0c-69beda917138)
+
 
 
 show customer details in nested api form using inner join 
